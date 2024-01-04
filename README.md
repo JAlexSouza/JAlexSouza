@@ -1,4 +1,4 @@
-<img  src="https://github.com/JAlexSouza/JAlexSouza/blob/main/output.gif" alt="Greatings!">
+<img  src="https://github.com/JAlexSouza/JAlexSouza/blob/main/outputgreeting.gif" alt="Greatings!">
 
 <p align="left">I ❤️ create solutions and solve great challenges using tech.</p>
 <br> 
