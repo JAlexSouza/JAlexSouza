@@ -8,7 +8,7 @@
   <a href="https://wa.me/5581985077328">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href"https://www.linkedin.com/in/j-alex-souza">
+  <a href="https://www.linkedin.com/in/j-alex-souza" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://medium.com/@alexsouza_kb">
@@ -95,7 +95,7 @@
 
 <h3>Streams</h3>
 <div>
-  <img height="44" width="54" src="https://github.com/JAlexSouza/JAlexSouza/blob/main/images/kafka-svgrepo-com.svg"  alt="Kafka" />
+  <img height="60" width="70" src="https://github.com/JAlexSouza/JAlexSouza/blob/main/images/kafka-svgrepo-com.svg"  alt="Kafka" />
 </div>
 
 ##
